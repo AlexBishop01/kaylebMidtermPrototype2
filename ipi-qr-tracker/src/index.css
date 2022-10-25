@@ -1,0 +1,29 @@
+.title {
+    margin-left:auto;
+    margin-right:auto;
+    width:auto;
+    text-align: center;
+    color:white;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto;
+    width:33%;
+    vertical-align: top;
+}
+.left{
+    margin-left:0%;
+    margin-right:auto;
+    width:33%;
+}
+.right{
+    margin-right:0%;
+    margin-left:auto;
+    width:33%;
+}
+.home-page{
+    background-color:#002237;
+}
+.label{
+    color:white;
+}
